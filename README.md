@@ -1,70 +1,125 @@
-# Subasri B
+<div align="center">
 
-Aspiring Software Engineer | B.Tech Graduate – SASTRA University  
-Skilled in Java, Python, AI, DevOps, and Cloud Technologies  
-Open to IT Opportunities
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Subasri%20B&fontSize=60&fontAlignY=38&desc=Engineer%20%E2%80%A2%20Creator%20%E2%80%A2%20Dreamer&descAlignY=58&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-## About Me
+<br/>
 
-I’m a B.Tech student in Electronics and Communication Engineering at SASTRA University, with a strong interest in software development, artificial intelligence, and embedded systems. I enjoy solving real-world problems through code, algorithms, and systems thinking.
+*B.Tech — Electronics & Communication · SASTRA Deemed University*
 
-My technical exposure includes hands-on projects in image processing, IoT, computer vision, and autonomous navigation. I’ve developed:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-subasri--b-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subasri-b-84839236b)
+[![GitHub](https://img.shields.io/badge/GitHub-Subasri23Hub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/Subasri23Hub)
+[![Email](https://img.shields.io/badge/Email-shubkutt23%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shubkutt23@gmail.com)
+[![Spotify Podcast](https://img.shields.io/badge/Podcast-The%20Soft%20Corners-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/show/31Z61bMMFQtlQwWgqV1lHC)
 
-• An Automated energy meter reading system using MATLAB and ThingSpeak for cloud integration and real-time monitoring,  
-• An ASL (American Sign Language) detection model using CNN and OpenCV for assistive communication, and  
-• Procedural Text Content Creation for Games using NLP by designing a generative AI system to create dynamic game narratives, dialogues and quests.
+</div>
 
-I’ve completed certifications including the "Deloitte Cyber Security Virtual Job Simulation", "Simplilearn Skill Up Front-End Web Development", and the "Microsoft Azure Fundamentals" learning path, enhancing my practical understanding of real-world business challenges and modern web technologies.
+---
 
-I’m currently seeking internship or entry-level opportunities in:
+## ✦ About Me
 
-• Software or Embedded Development  
-• AI/ML and Computer Vision  
-• IoT and Cloud-based Applications
+I am a passionate technologist and creative soul, currently pursuing a B.Tech in Electronics & Communication Engineering at SASTRA Deemed University. I thrive at the intersection of **Artificial Intelligence**, **automation**, and **real-world problem solving** — building systems that are not just functional, but meaningful.
 
-I’m committed to continuous learning, collaborative development, and building technology that has real-world impact.
+Currently an **GenAI Intern at Sourcesys Technologies**, I translate complex, open-ended challenges into structured, responsible AI solutions. I believe in building technology that is thoughtful, scalable, and human-centred.
 
-Let’s connect if you’re looking for a motivated fresher with a blend of academic strength and practical project experience!
+Beyond the code — I host 🎙️ **[The Soft Corners](https://open.spotify.com/show/31Z61bMMFQtlQwWgqV1lHC)**, a podcast *where we don't rush the feeling.*
 
-## Technical Skills
+---
 
-**Programming**  
-Java, Python, C++
+## ✦ Currently
 
-**Frontend Development**  
-HTML, CSS, Git & GitHub
+```
+🔭  GenAI Intern @ Sourcesys Technologies — building responsible, production-ready AI solutions
+🌱  Deepening expertise in LLMs, prompt engineering & workflow automation
+🎙️  Podcasting on Spotify — The Soft Corners
+📬  Open to IT opportunities, internships & collaborations
+```
 
-**Design Tools & Technologies**  
-Adobe Photoshop, UI/UX Design
+---
 
-**Software & Simulation Tools**  
-MATLAB, Quartus, Grafana, AutoCAD, ModelSim
+## ✦ Featured Projects
 
-**Digital Productivity & Visualization Tools**  
-MS Excel, MS PowerPoint
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**✍️ InkForge — Narrative Flow**](https://github.com/Subasri23Hub/infosys-springboard-narrative-flow) | Collaborative AI fiction writing platform with local LLM, genre-guided storytelling, PDF export & content guardrails. Team Lead @ Infosys Springboard | Python, Streamlit, Ollama |
+| [**✈️ AI Travel Planner**](https://github.com/Subasri23Hub/ai-travel-planner) | Fully automated itinerary generator — form input to Gmail delivery in seconds via n8n + LLM agents | n8n, LLM, Google Sheets |
+| [**⚡ Energy Meter Automation**](https://github.com/Subasri23Hub/energy-meter-automation) | OCR pipeline in MATLAB for real-time cloud-based energy monitoring via ThingSpeak — no microcontroller needed | MATLAB, IoT, CV |
+| [**🌐 Portfolio Website**](https://github.com/Subasri23Hub/portfolio-subasri-crafts) | Soft brown–beige aesthetic personal portfolio showcasing projects, skills & certifications | TypeScript, Lovable AI |
 
-**Hardware Description Languages**  
-Verilog
+---
 
-**Managerial & Soft Skills**  
-Leadership, Conflict Resolution, Adaptability, Goal Setting and Planning for Time Management
+## ✦ Technical Arsenal
 
-## Projects
+<div align="center">
 
-**Automated Energy Meter Reading using Image Processing and IoT**  
-Designed an OCR pipeline in MATLAB for digit recognition from energy meter images. Used advanced image preprocessing techniques and integrated MATLAB with ThingSpeak for real-time cloud data transmission. Applied computer vision, IoT architecture, and data analytics to automate energy monitoring.
+**Languages & Programming**
+`Java` `Python` `C++` `SQL` `Verilog`
 
-**American Sign Language Detection using CNN**  
-Developed a CNN model to classify ASL gestures with real-time video input using OpenCV. Implemented dropout, batch normalization, and Adam optimization for improved accuracy. Enabled assistive communication through visual gesture recognition.
+**AI & Machine Learning**
+`Machine Learning` `Deep Learning` `NLP` `Model Evaluation` `Prompt Engineering`
 
-**Procedural Text Content Creation for Games using NLP**  
-Designed a generative AI system to create dynamic game narratives, dialogues, and quests using NLP techniques. Trained a custom text generation model to produce context-aware content tailored to game settings and characters. Automated storyline and mission generation to enhance player immersion and reduce manual writing effort. Focused on grammar consistency, character alignment, and plot continuity for high-quality in-game content.
+**Data & Visualization**
+`NumPy` `Pandas` `Matplotlib` `Power BI` `Tableau` `Microsoft Excel`
 
-## Contact
+**Tools & Platforms**
+`n8n` `Zapier` `MATLAB` `Azure` `Git & GitHub` `ChatGPT` `Google Gemini` `ElevenLabs`
 
-[LinkedIn Profile](https://www.linkedin.com/in/subasri-b-84839236b)  
-Email: shubkutt23@gmail.com
+**Web & Design**
+`HTML` `CSS` `TypeScript` `UI/UX` `Adobe Photoshop`
 
-## Quote
+</div>
 
-*"The best way to predict the future is to invent it." – Alan Kay*
+---
+
+## ✦ Certifications
+
+- 🧠 **Introduction to AI** — Infosys Springboard *(Supervised Learning, NLP, Ethical AI)*
+- ☁️ **Azure Fundamentals** — Microsoft *(Cloud, IaaS, Azure Services)*
+- 🔒 **Cyber Security Virtual Job Simulation** — Deloitte
+- 🗄️ **SQL for Analysts** — Google Developers Group
+- ⚙️ **Introduction to DevOps Tools** — Simplilearn SkillUp *(CI/CD, Version Control)*
+- 💻 **Front-End Web Development** — Simplilearn SkillUp
+
+---
+
+## ✦ Experience
+
+**AI Intern — Infosys Springboard** *(Jan 2026 – Present)*
+Translating open-ended problem statements into structured AI tasks; iterating on model strategies using evaluation metrics to build reliable, responsible AI solutions.
+
+**AI Intern — Mirai School of Technology** *(Jul 2025 – Sep 2025)*
+Worked with advanced AI platforms (ChatGPT, Gemini, Copilot, ElevenLabs) and built intelligent automation workflows using Zapier, n8n & EmailJS. Awarded a **Letter of Recommendation** for outstanding contributions.
+
+---
+
+## ✦ The Soft Corners 🎀
+
+<div align="center">
+
+*A podcast where we slow down, feel deeply, and don't rush the feeling.*
+
+[![Listen on Spotify](https://img.shields.io/badge/🎙️%20Listen%20on%20Spotify-The%20Soft%20Corners-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/31Z61bMMFQtlQwWgqV1lHC)
+
+</div>
+
+---
+
+## ✦ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Subasri23Hub&show_icons=true&theme=rose_pine&hide_border=true&title_color=c9a0dc&icon_color=c9a0dc&text_color=e0d7f0&bg_color=1a1025" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subasri23Hub&layout=compact&theme=rose_pine&hide_border=true&title_color=c9a0dc&text_color=e0d7f0&bg_color=1a1025" width="47%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to invent it."* — Alan Kay
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
+</div>
