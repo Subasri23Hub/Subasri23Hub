@@ -17,7 +17,7 @@
 
 ## ✦ About Me
 
-I am a passionate technologist and creative soul, currently pursuing a B.Tech in Electronics & Communication Engineering at SASTRA Deemed University (CGPA: 7.57). I thrive at the intersection of **Artificial Intelligence**, **automation**, and **real-world problem solving** — building systems that are not just functional, but meaningful.
+I am a passionate technologist and creative soul, currently pursuing a B.Tech in Electronics & Communication Engineering at SASTRA Deemed University. I thrive at the intersection of **Artificial Intelligence**, **automation**, and **real-world problem solving** — building systems that are not just functional, but meaningful.
 
 Currently a **GenAI Intern at Sourcesys Technologies**, I translate complex, open-ended challenges into structured, responsible AI solutions. I believe in building technology that is thoughtful, scalable, and human-centred.
 
