@@ -28,10 +28,10 @@ Beyond the code — I host 🎙️ **[The Soft Corners](https://open.spotify.com
 ## ✦ Currently
 
 ```
-🔭  GenAI Intern @ Sourcesys Technologies — building responsible, production-ready AI solutions
-🌱  Deepening expertise in LLMs, prompt engineering & workflow automation
-🎙️  Podcasting on Spotify — The Soft Corners
-📬  Open to IT opportunities, internships & collaborations
+  GenAI Intern @ Sourcesys Technologies — building responsible, production-ready AI solutions
+  Deepening expertise in LLMs, prompt engineering & workflow automation
+  Podcasting on Spotify — The Soft Corners
+  Open to IT opportunities, internships & collaborations
 ```
 
 ---
@@ -40,10 +40,10 @@ Beyond the code — I host 🎙️ **[The Soft Corners](https://open.spotify.com
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**✍️ InkForge — Narrative Flow**](https://github.com/Subasri23Hub/infosys-springboard-narrative-flow) | Collaborative AI fiction writing platform with local LLM, genre-guided storytelling, PDF export & content guardrails. Team Lead @ Infosys Springboard | Python, Streamlit, Ollama |
-| [**✈️ AI Travel Planner**](https://github.com/Subasri23Hub/ai-travel-planner) | Fully automated itinerary generator — form input to Gmail delivery in seconds via n8n + LLM agents | n8n, LLM, Google Sheets |
-| [**⚡ Energy Meter Automation**](https://github.com/Subasri23Hub/energy-meter-automation) | OCR pipeline in MATLAB for real-time cloud-based energy monitoring via ThingSpeak — no microcontroller needed | MATLAB, IoT, CV |
-| [**🌐 Portfolio Website**](https://github.com/Subasri23Hub/portfolio-subasri-crafts) | Soft brown–beige aesthetic personal portfolio showcasing projects, skills & certifications | TypeScript, Lovable AI |
+| [** InkForge — Narrative Flow**](https://github.com/Subasri23Hub/infosys-springboard-narrative-flow) | Collaborative AI fiction writing platform with local LLM, genre-guided storytelling, PDF export & content guardrails. Team Lead @ Infosys Springboard | Python, Streamlit, Ollama |
+| [** AI Travel Planner**](https://github.com/Subasri23Hub/ai-travel-planner) | Fully automated itinerary generator — form input to Gmail delivery in seconds via n8n + LLM agents | n8n, LLM, Google Sheets |
+| [** Energy Meter Automation**](https://github.com/Subasri23Hub/energy-meter-automation) | OCR pipeline in MATLAB for real-time cloud-based energy monitoring via ThingSpeak — no microcontroller needed | MATLAB, IoT, CV |
+| [** Portfolio Website**](https://github.com/Subasri23Hub/portfolio-subasri-crafts) | Soft brown–beige aesthetic personal portfolio showcasing projects, skills & certifications | TypeScript, Lovable AI |
 
 ---
 
@@ -72,12 +72,12 @@ Beyond the code — I host 🎙️ **[The Soft Corners](https://open.spotify.com
 
 ## ✦ Certifications
 
-- 🧠 **Introduction to AI** — Infosys Springboard *(Supervised Learning, NLP, Ethical AI)*
-- ☁️ **Azure Fundamentals** — Microsoft *(Cloud, IaaS, Azure Services)*
-- 🔒 **Cyber Security Virtual Job Simulation** — Deloitte
-- 🗄️ **SQL for Analysts** — Google Developers Group
-- ⚙️ **Introduction to DevOps Tools** — Simplilearn SkillUp *(CI/CD, Version Control)*
-- 💻 **Front-End Web Development** — Simplilearn SkillUp
+-  **Introduction to AI** — Infosys Springboard *(Supervised Learning, NLP, Ethical AI)*
+-  **Azure Fundamentals** — Microsoft *(Cloud, IaaS, Azure Services)*
+-  **Cyber Security Virtual Job Simulation** — Deloitte
+-  **SQL for Analysts** — Google Developers Group
+-  **Introduction to DevOps Tools** — Simplilearn SkillUp *(CI/CD, Version Control)*
+-  **Front-End Web Development** — Simplilearn SkillUp
 
 ---
 
