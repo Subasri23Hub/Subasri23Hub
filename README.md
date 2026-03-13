@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Subasri%20B&fontSize=60&fontAlignY=38&desc=Engineer%20%E2%80%A2%20Creator%20%E2%80%A2%20Dreamer&descAlignY=58&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/Subasri23Hub/Subasri23Hub/main/banner.svg" width="100%" alt="Subasri B — Engineer · Creator · Dreamer"/>
 
 <br/>
 
@@ -17,9 +17,9 @@
 
 ## ✦ About Me
 
-I am a passionate technologist and creative soul, currently pursuing a B.Tech in Electronics & Communication Engineering at SASTRA Deemed University. I thrive at the intersection of **Artificial Intelligence**, **automation**, and **real-world problem solving** — building systems that are not just functional, but meaningful.
+I am a passionate technologist and creative soul, currently pursuing a B.Tech in Electronics & Communication Engineering at SASTRA Deemed University (CGPA: 7.57). I thrive at the intersection of **Artificial Intelligence**, **automation**, and **real-world problem solving** — building systems that are not just functional, but meaningful.
 
-Currently an **GenAI Intern at Sourcesys Technologies**, I translate complex, open-ended challenges into structured, responsible AI solutions. I believe in building technology that is thoughtful, scalable, and human-centred.
+Currently a **GenAI Intern at Sourcesys Technologies**, I translate complex, open-ended challenges into structured, responsible AI solutions. I believe in building technology that is thoughtful, scalable, and human-centred.
 
 Beyond the code — I host 🎙️ **[The Soft Corners](https://open.spotify.com/show/31Z61bMMFQtlQwWgqV1lHC)**, a podcast *where we don't rush the feeling.*
 
@@ -52,7 +52,7 @@ Beyond the code — I host 🎙️ **[The Soft Corners](https://open.spotify.com
 <div align="center">
 
 **Languages & Programming**
-`Java` `Python` `C++` `SQL` `Verilog`
+`Java` `Python` `SQL` `Verilog`
 
 **AI & Machine Learning**
 `Machine Learning` `Deep Learning` `NLP` `Model Evaluation` `Prompt Engineering`
@@ -120,6 +120,6 @@ Worked with advanced AI platforms (ChatGPT, Gemini, Copilot, ElevenLabs) and bui
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/Subasri23Hub/Subasri23Hub/main/banner-footer.svg" width="100%" alt="footer"/>
 
 </div>
